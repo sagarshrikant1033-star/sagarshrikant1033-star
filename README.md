@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Biradar</h1>
 <h3 align="center">MCA Student Skills Form India</h3>
 
-<img align="left"alt="coding"width="400"src="https://user- images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarshrikant1033-star&label=Profile%20views&color=0e75b6&style=flat" alt="sagarshrikant1033-star" /> </p>
 
