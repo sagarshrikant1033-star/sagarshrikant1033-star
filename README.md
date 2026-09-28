@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi  👋
 <h1 align="center">Hi 👋, I'm Sagar Biradar</h1>
 <h3 align="center">MCA Student Skills Form India</h3>
 
